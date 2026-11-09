@@ -58,13 +58,6 @@ Text Input      PDF Upload
 
 Nexa AI uses an environment variable to protect the Groq API key.
 
-Create a `.env` file in the project root:
-
-```env
-GROQ_API_KEY=your_groq_api_key
-```
-
-Never upload your actual `.env` file or API key to GitHub.
 
 ## 📌 Key Features
 
